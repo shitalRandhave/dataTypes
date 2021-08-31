@@ -7,7 +7,8 @@ public class DataTypes_1 {
 		int height;
 		height = 10;
 		System.out.println("the height of a person is - " + height);
-
+        System.out.println("test");
+        
 	}
 
 }
